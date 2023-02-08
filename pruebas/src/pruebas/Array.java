@@ -23,6 +23,8 @@ array.add(8);
 array.add(9);
 array.add(10);*/
 
+
+
 		int num=1;
 			while(num>0) {
 				System.out.println("Introduce el numero");
